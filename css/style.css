@@ -5,6 +5,9 @@
 .adams-carousel-images{
     height: 650px;;
 }
+.adams-text-shadow{
+    text-shadow: 2px 2px 8px #161616;
+}
 .adams-package-style{
     background-color: seagreen;
     border-radius:  26px;
