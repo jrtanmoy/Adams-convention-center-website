@@ -3,5 +3,9 @@
     font-family: 'Poppins', sans-serif;
 }
 .adams-carousel-images{
-    height: 600px;;
+    height: 650px;;
+}
+.adams-package-style{
+    background-color: #3F87F5;
+    border-radius:  26px;
 }
